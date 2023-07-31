@@ -1,0 +1,10 @@
+.app {
+    display: inline-flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    color: #010101;
+    border: 6px dashed yellow;
+    border-radius: 6px;
+}
